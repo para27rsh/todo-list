@@ -1,0 +1,11 @@
+.todolistWrapper {
+  position: relative;
+  margin-top: 45px;
+}
+
+.todolistWrapper span {
+  font-size: 29px;
+  position: absolute;
+  top: -5px;
+  left: -32px;
+}
